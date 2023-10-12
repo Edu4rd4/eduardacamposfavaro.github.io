@@ -1,0 +1,8 @@
+@import './variaveis.css';
+@import './globals.css';
+@import './components/navbar.css';
+@import './components/header.css';
+@import './components/sobre.css';
+@import './components/habilidades.css';
+@import './components/contato.css';
+@import './components/footer.css';

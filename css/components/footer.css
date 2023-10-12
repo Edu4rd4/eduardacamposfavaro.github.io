@@ -1,0 +1,12 @@
+footer {
+  background: url('assets/footer.svg') no-repeat center center;
+  background-size: cover;
+  height: 175vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+/* isso define a imagem do footer.
